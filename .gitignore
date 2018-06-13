@@ -14,3 +14,7 @@ otherResources
 .DS_Store
 /out
 /.nb-gradle/
+.classpath
+.project
+.settings
+bin
